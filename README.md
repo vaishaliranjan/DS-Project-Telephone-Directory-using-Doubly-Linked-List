@@ -1,35 +1,17 @@
 # Telephone-Directory-using-Doubly-Linked-List
 
-### :woman_technologist: Introduction
+### :woman_technologist: Objective
 
-A telephone directory (also called a telephone book 
-and phone book) is a listing of telephone subscribers 
-in a geographical area or subscribers to services 
-provided by the organization that publishes the 
-directory. It consists of the name as well as the 
-telephone number of people added as contact in the 
-directory. Name and telephone number are displayed in 
-alphabetical order.
+The scope of this project is limitless with world rushing towards hectic schedules and
+monotonous lifestyle. A more personalized solution to detect happiness quo- tient by tracking
+user’s social media interaction, profession, age, and numerous other factors. While
+psychologists are accessible to people in urban areas, there are not many in rural and remote
+areas. Through ’HAPPINESS CHECK’ we can connect psychologists from around the
+world directly to people. Also mental health is still considered a stigma in society, spreading
+awareness is another aspect of the project. Machine learning and data analysis can help us
+spot such people who need help, we can then concentrate our solution on them so that
+depression just can’t be cured but also prevented. 
 
----
-### :hammer_and_wrench: Objective
-
-We are determined to design a system which is intended 
-in saving name and number of desired persons. The main 
-objective of telephone directory is to add, search, 
-edit and delete various contacts.
-
---- 
-### :zap: Conclusion
-
-The aim of this project was to build an Telephone 
-directory through which allowed to add,search, delete 
-contacts of individual andaccess toexternal 
-memorydevice. At the completion of this project we are 
-able to add, search and delete contacts hence the 
-project is completed successfully.
-
----
 
 <div id="header" align="center">
   
